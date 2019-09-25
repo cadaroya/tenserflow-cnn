@@ -44,3 +44,10 @@ FAQS:
 1.  How to choose filter shape? (https://stackoverflow.com/questions/40025382/why-does-convolution-over-a-5x5-image-with-a-2x2-filter-produce-32-features-in-t/40027473)
 2   What are input channels? (https://www.quora.com/What-do-channels-refer-to-in-a-convolutional-neural-network)
 3.  How to choose output channels? (https://stats.stackexchange.com/questions/380996/convolutional-network-how-to-choose-output-channels-number-stride-and-padding/381032)
+
+some impt links:
+https://pythontic.com/visualization/signals/fouriertransform_fft (preprocessing sine waves) (not normalized though)
+http://aqibsaeed.github.io/2016-09-03-urban-sound-classification-part-1/
+http://aqibsaeed.github.io/2016-09-24-urban-sound-classification-part-2/
+https://github.com/AmritK10/Urban-Sound-Classification
+https://medium.com/@mikesmales/sound-classification-using-deep-learning-8bc2aa1990b7 (good explanation on how sound data is processed)
